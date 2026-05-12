@@ -1,1 +1,25 @@
-
+Message: like new payment easy use ticket number 65556
+Actual: positive
+LR Pred: positive
+LSTM Pred: positive
+--------------------
+Message: great service clear communication support team
+Actual: positive
+LR Pred: positive
+LSTM Pred: positive
+--------------------
+Message: refund still pending experience frustrating
+Actual: negative
+LR Pred: negative
+LSTM Pred: negative
+--------------------
+Message: app crashes whenever try use analytics
+Actual: negative
+LR Pred: negative
+LSTM Pred: negative
+--------------------
+Message: response team helpful professional
+Actual: positive
+LR Pred: positive
+LSTM Pred: positive
+--------------------
