@@ -14,4 +14,4 @@ Use the relevant Part 3 dataset from the shared folder:
 
 **https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing**
 
-# File name customer_support_text_classification.txt
+# File name :  customer_support_text_classification.txt
